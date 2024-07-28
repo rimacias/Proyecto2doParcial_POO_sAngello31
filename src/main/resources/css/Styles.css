@@ -1,0 +1,13 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 28/08/2022, 10:39:06 a. m.
+    Author     : Angello Bravo
+*/
+
+Label:hover{
+    -fx-font-size: 25px;
+    -fx-font-weight: bold;
+}
